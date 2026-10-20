@@ -79,7 +79,11 @@ SolarGen combines Blender's Geometry Nodes with Python scripting.
 
 ## Demo
 
-A demonstration video showing the generator's interactive workflow will be added soon.
+
+
+https://github.com/user-attachments/assets/a6146e0d-651a-4583-9d83-0113c4f5ae17
+
+
 
 ## Version
 
