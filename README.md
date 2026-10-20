@@ -7,7 +7,7 @@ Procedural solar array generator for Blender 5, built with Geometry Nodes and Py
 
 Designed to streamline environment creation and demonstrate procedural asset generation workflows for technical art and game development.
 
-![SolarGen Hero Render](media/hero.png)
+![SolarGen Hero Render](Media/hero.png)
 
 ## Features
 
@@ -25,13 +25,13 @@ Designed to streamline environment creation and demonstrate procedural asset gen
 
 ### Layout Variations
 
-![SolarGen Layout Variations](media/Shapes.png)
+![SolarGen Layout Variations](Media/Shapes.png)
 
 Rectangular, circular, and hexagonal configurations generated using the same procedural system.
 
 ### Density and Supporting Geometry
 
-![SolarGen Density Example](media/Density.png)
+![SolarGen Density Example](Media/Density.png)
 
 Reduced panel density reveals the backing structure, frames, and mechanical supports.
 
