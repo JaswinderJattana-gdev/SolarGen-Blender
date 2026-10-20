@@ -7,7 +7,7 @@ Procedural solar array generator for Blender 5, built with Geometry Nodes and Py
 
 Designed to streamline environment creation and demonstrate procedural asset generation workflows for technical art and game development.
 
-![SolarGen Hero Render](Media/hero.png)
+![SolarGen Hero Render](Media/Hero.png)
 
 ## Features
 
